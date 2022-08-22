@@ -1,2 +1,2 @@
-# java
-This is my first java page
+# javascript
+This is my first javascript page
